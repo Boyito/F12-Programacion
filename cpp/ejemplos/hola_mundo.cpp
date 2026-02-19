@@ -1,6 +1,7 @@
 #include <iostream>
+using namespace std;
+
 int main() {
-  std::cout << "Hola C++ desde code-server\n";
-  std::cout << "<<Nombre>> y <<Carnet>>\n";
-  return 0;
+    cout << "Hola mundo desde Docker!" << endl;
+    return 0;
 }
